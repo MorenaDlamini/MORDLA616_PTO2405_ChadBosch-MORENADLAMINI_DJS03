@@ -12,7 +12,7 @@ This document outlines the improvements made to the **Book Connect** application
 - **Shortened function descriptions** for better readability. 👀
 - **Clearer variable names** to enhance maintainability. 
 
-## 3. Functional Enhancements
+### 3. Functional Enhancements
 - **Load More" now prioritizes similar books** (by author or genre). 🔃
 - **"Book Connect" logo acts as a home button** (reloads page when clicked). 🏠
 - **Enhanced Event Management:** Centralized event listeners for better maintainability. 👂
